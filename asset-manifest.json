@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ec1d2522.chunk.css",
+    "main.js": "/portfolio/static/js/main.1f790950.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.1f790950.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.d6331d23.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.d6331d23.js.map",
+    "static/js/2.b19146fe.chunk.js": "/portfolio/static/js/2.b19146fe.chunk.js",
+    "static/js/2.b19146fe.chunk.js.map": "/portfolio/static/js/2.b19146fe.chunk.js.map",
+    "static/js/3.8446ad2f.chunk.js": "/portfolio/static/js/3.8446ad2f.chunk.js",
+    "static/js/3.8446ad2f.chunk.js.map": "/portfolio/static/js/3.8446ad2f.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.ec1d2522.chunk.css.map": "/portfolio/static/css/main.ec1d2522.chunk.css.map",
+    "static/js/2.b19146fe.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b19146fe.chunk.js.LICENSE.txt",
+    "static/media/canadian-wanderlust.b2a1fb91.jpg": "/portfolio/static/media/canadian-wanderlust.b2a1fb91.jpg",
+    "static/media/kids.66d852db.jpeg": "/portfolio/static/media/kids.66d852db.jpeg",
+    "static/media/landscape.2cdc8326.jpg": "/portfolio/static/media/landscape.2cdc8326.jpg",
+    "static/media/maternity.1fd8b3b0.jpeg": "/portfolio/static/media/maternity.1fd8b3b0.jpeg",
+    "static/media/monochrome.e9a1d432.jpeg": "/portfolio/static/media/monochrome.e9a1d432.jpeg",
+    "static/media/potrait.4e591af0.jpeg": "/portfolio/static/media/potrait.4e591af0.jpeg",
+    "static/media/wedding.f9afea29.jpeg": "/portfolio/static/media/wedding.f9afea29.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6331d23.js",
+    "static/js/2.b19146fe.chunk.js",
+    "static/css/main.ec1d2522.chunk.css",
+    "static/js/main.1f790950.chunk.js"
+  ]
+}
