@@ -2,32 +2,29 @@ import React from "react";
 import "./App.css";
 import image from "./canadian-wanderlust.jpg";
 import SideBar from "./SideBar";
-import Gallery from "./Gallery";
 import Contact from "./Contact";
 import About from "./About";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { ImageViewer } from "./ImageViewer";
 
 class App extends React.Component {
-  displayAbout = () => {
-    this.setState({
-      displayAboutPage: true,
-    });
-  };
+ 
   render() {
     return (
       <Router>
         <div className="App">
-          <img className="profile-pic" alt="profile" src={image}></img>
-          <div className="middle">
+          <div className='header'>
             <h1 className="name">Soniya Sadath</h1>
-            <Switch>
+            <SideBar />
+          </div>
+          <div className='container'>
+          <Switch>
               <Route path="/about" component={About} />
               <Route path="/contact" component={Contact} />
-              <Route path="/" component={Gallery} />
+              <Route path="/" component={ImageViewer} />
             </Switch>
           </div>
-          <SideBar />
-        </div>
+          </div>
       </Router>
     );
   }

@@ -6,14 +6,14 @@ class SideBar extends React.Component {
     return (
       <div className="Side-bar">
         <ul className="nav">
+          <Link to="/">
+            <li>Home</li>
+          </Link>
           <Link to="/about">
             <li>About</li>
           </Link>
           <Link to="/contact">
             <li>Contact</li>
-          </Link>
-          <Link to="/">
-            <li>Gallery</li>
           </Link>
         </ul>
       </div>

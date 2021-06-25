@@ -1,9 +1,11 @@
 import React from "react";
+import profilePic from './profilepic.jpeg';
 
 class About extends React.Component {
   render() {
     return (
       <div className="About">
+        <img src={profilePic}/>
         <p>
           {" "}
           I am a Chandigarh based Malayalee Photographer.I love everything{" "}
