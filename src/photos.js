@@ -30,7 +30,7 @@ export const photos = [
     },
     {
       src: image3,
-      width: 3,
+      width: 3.1,
       height: 4
     },
     {
@@ -55,7 +55,7 @@ export const photos = [
     },
     {
       src: image8,
-      width: 4,
+      width: 3,
       height: 3
     },
     {
@@ -65,7 +65,7 @@ export const photos = [
     },
     {
       src: image10,
-      width: 2,
+      width: 1.5,
       height: 2
     },
     {
@@ -95,12 +95,12 @@ export const photos = [
     },
     {
       src: image17,
-      width: 4,
+      width: 3,
       height: 4
     },
     {
       src: image18,
-      width: 4,
+      width: 3,
       height: 3
     },
     {

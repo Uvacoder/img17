@@ -7,18 +7,20 @@ class Contact extends React.Component {
     return (
       <div className="Contact">
         <img src={pic}/>
-        <p>
-          3166-A
-          <br />
-          Sector 48D
-          <br />
-          Chandigarh
-          <br />
-          160047
-          <br />
-          ph.No: 7307371331
-        </p>
-        <Icons />
+        <div className='address'>
+          <p>
+            3166-A
+            <br />
+            Sector 48D
+            <br />
+            Chandigarh
+            <br />
+            160047
+            <br />
+            ph.No: 7307371331
+          </p>
+          <Icons />
+        </div>
       </div>
     );
   }

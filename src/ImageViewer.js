@@ -19,7 +19,7 @@ export function ImageViewer() {
 
   return (
     <div className='gallery'>
-      <Gallery photos={photos} onClick={openLightbox} />
+      <Gallery photos={photos} onClick={openLightbox} className='gallery'/>
       <ModalGateway>
         {viewerIsOpen ? (
           <Modal onClose={closeLightbox}>

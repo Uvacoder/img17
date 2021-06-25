@@ -89,6 +89,9 @@ body {
   margin: 1em;
   color: white;
 }
+.icon:hover{
+  color: #008C8C;
+}
 .Contact p {
   line-height: 2em;
 }
@@ -99,4 +102,8 @@ body {
 .Contact{
   display: flex;
   justify-content: space-around;
+}
+.address{
+  position: relative;
+  right: 13em;
 }
