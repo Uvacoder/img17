@@ -1,7 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Cinzel&family=Poiret+One&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Mate+SC&display=swap');
 body {
   background: black;
-  font-family: "Poiret One", cursive;
+  font-family: 'Mate SC', serif;
   color: white;
 }
 .header{
@@ -34,6 +34,7 @@ body {
   font-size: 4em;
   font-weight: 100;
   transition: transform 1s;
+  letter-spacing: 0.1em;
 }
 .name:hover {
   color: #05CE91;
