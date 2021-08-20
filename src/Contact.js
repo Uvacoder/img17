@@ -6,7 +6,7 @@ class Contact extends React.Component {
   render() {
     return (
       <div className="Contact">
-        <img src={pic}/>
+        <img src={pic} alt="" />
         <div className='address'>
           <p>
             3166-A
