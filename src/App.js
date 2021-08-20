@@ -1,6 +1,5 @@
 import React from "react";
 import "./App.css";
-import image from "./canadian-wanderlust.jpg";
 import SideBar from "./SideBar";
 import Contact from "./Contact";
 import About from "./About";
