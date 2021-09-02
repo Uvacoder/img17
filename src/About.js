@@ -8,17 +8,12 @@ class About extends React.Component {
         <img src={profilePic} alt="" />
         <p>
           {" "}
-          I am a Chandigarh based Malayalee Photographer.I love everything{" "}
+          I am a test Photographer.I love everything{" "}
           <br />
           creative in life, importantly photography.I love capturing laughter,
           <br />
           giggles and lovely memories!. I offer newborn, family, couples,
           maternity,
-          <br />
-          potrait and event photography. If you are looking to capture some
-          special
-          <br />
-          memories drop me a line!
         </p>
       </div>
     );
