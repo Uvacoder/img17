@@ -8,7 +8,7 @@ class About extends React.Component {
         <img src={profilePic} alt="" />
         <p>
           {" "}
-          I am a test Photographer.I love everything{" "}
+          I'm Helen Ward. An artist and Photographer.I love everything{" "}
           <br />
           creative in life, importantly photography.I love capturing laughter,
           <br />
