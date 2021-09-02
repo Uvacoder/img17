@@ -1,6 +1,6 @@
 import React from "react";
 import Icons from "./Icons";
-import pic from "./canadian-wanderlust.jpg";
+import pic from "./profilePic.jpeg";
 
 class Contact extends React.Component {
   render() {
