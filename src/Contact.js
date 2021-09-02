@@ -9,15 +9,15 @@ class Contact extends React.Component {
         <img src={pic} alt="" />
         <div className='address'>
           <p>
-            3166-A
+            Ivy Rd
             <br />
-            Sector 48D
+            Ivy
             <br />
-            Chandigarh
+            Virginia
             <br />
-            160047
+            22901
             <br />
-            ph.No: 7307371331
+            ph.No: 1-434-978-1691
           </p>
           <Icons />
         </div>
